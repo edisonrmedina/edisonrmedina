@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @edisonrmedina
+- 👀 I’m interested in Web Development and Desktop Aplications
+- 🌱 I’m currently learning Python ( Django, Data Science, Pygame, Desktops apps) Java(Desktop Apps),Sql(Mysql)-Nosql(MongoDb),Javascript (novel yet),
+- 💞️ I’m looking to collaborate in different repositories and that they collaborate with me :)
+- 📫 How to reach me edison1282015@gmail.com
